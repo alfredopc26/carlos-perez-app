@@ -1,0 +1,8 @@
+{
+  "name": "Carlos Perez App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "fcf5dd34"
+}
